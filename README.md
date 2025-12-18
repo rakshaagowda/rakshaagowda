@@ -51,4 +51,9 @@
 | 🔐 <a href="https://github.com/rakshaagowda/CipherNet" target="_blank"><b>CipherNet</b></a>       | Secure real-time chat application using hybrid cryptography (RSA + AES) with BTS encryption visualization. |
 
 ---
+<h3 align="left">📈 Yearly Contribution Graph</h3>
 
+<p align="center">
+  <!-- Yearly contributions with months on X-axis -->
+  <img src="https://ghchart.rshah.org/rakshaagowda" alt="Raksha's GitHub yearly contributions" />
+</p>
