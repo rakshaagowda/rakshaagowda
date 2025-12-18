@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakshaagowda&label=Profile%20views&color=0e75b6&style=flat" alt="rakshaagowda" />
 </p>
 
-- 📫 How to reach me: **rakshagowda264@gmail.com**
+* 📫 How to reach me: **[rakshagowda264@gmail.com](mailto:rakshagowda264@gmail.com)**
 
 ---
 
@@ -17,7 +17,9 @@
   <a href="https://leetcode.com/u/rakshaagowda01/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
-
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
 </p>
 
 ---
@@ -41,17 +43,17 @@
 
 <h3 align="left">🚀 Projects</h3>
 
-| Project | Description | GitHub |
-|-------|-------------|--------|
-| 🌱 **SmartFarming** | IoT & data-driven smart agriculture system for crop monitoring, irrigation, and yield optimization. | [Repo](https://github.com/rakshaagowda/SmartFarming) |
-| 🥗 **SafeBite** | Food safety and nutrition analysis platform that helps users make informed dietary choices. | [Repo](https://github.com/rakshaagowda/SafeBite) |
-| 🎓 **SkillFinder** | Full-stack platform to discover and enroll in online/offline learning platforms using Prisma & SQLite. | [Repo](https://github.com/rakshaagowda/SkillFinder) |
-| 🔐 **CipherNet** | Secure real-time chat application using hybrid cryptography (RSA + AES) with BTS encryption visualization. | [Repo](https://github.com/rakshaagowda/CipherNet) |
+| Project                                                                                           | Description                                                                                                |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 🌱 <a href="https://github.com/rakshaagowda/SmartFarming" target="_blank"><b>SmartFarming</b></a> | IoT & data-driven smart agriculture system for crop monitoring, irrigation, and yield optimization.        |
+| 🥗 <a href="https://github.com/rakshaagowda/SafeBite" target="_blank"><b>SafeBite</b></a>         | Food safety and nutrition analysis platform that helps users make informed dietary choices.                |
+| 🎓 <a href="https://github.com/rakshaagowda/SkillFinder" target="_blank"><b>SkillFinder</b></a>   | Full-stack platform to discover and enroll in online/offline learning platforms using Prisma & SQLite.     |
+| 🔐 <a href="https://github.com/rakshaagowda/CipherNet" target="_blank"><b>CipherNet</b></a>       | Secure real-time chat application using hybrid cryptography (RSA + AES) with BTS encryption visualization. |
 
 ---
 
 <h3 align="left">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshaagowda&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshaagowda&theme=github-light" />
 </p>
