@@ -53,7 +53,8 @@
 ---
 <h3 align="left">📈 Yearly Contribution Graph</h3>
 
+
 <p align="center">
-  <!-- Yearly contributions with months on X-axis -->
-  <img src="https://ghchart.rshah.org/rakshaagowda" alt="Raksha's GitHub yearly contributions" />
+  <!-- Mathematical bar-style graph (not streak-based) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakshaagowda&theme=github" alt="Raksha's yearly activity graph" />
 </p>
