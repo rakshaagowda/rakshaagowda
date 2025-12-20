@@ -49,6 +49,7 @@
 | 🥗 <a href="https://github.com/rakshaagowda/SafeBite" target="_blank"><b>SafeBite</b></a>         | Food safety and nutrition analysis platform that helps users make informed dietary choices.                |
 | 🎓 <a href="https://github.com/rakshaagowda/SkillFinder" target="_blank"><b>SkillFinder</b></a>   | Full-stack platform to discover and enroll in online/offline learning platforms using Prisma & SQLite.     |
 | 🔐 <a href="https://github.com/rakshaagowda/CipherNet" target="_blank"><b>CipherNet</b></a>       | Secure real-time chat application using hybrid cryptography (RSA + AES) with BTS encryption visualization. |
+| 🌱<a href="https://github.com/rakshaagowda/KrishiMithra" target="_blank"><b>KrishiMithra</b></a>  | Document interpretar for farmers to fill in literacy and agriculture gap seamlessly.                        |
 
 ---
 <h3 align="left">📈 Yearly Contribution Graph</h3>
