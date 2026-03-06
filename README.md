@@ -1,61 +1,114 @@
-<h1 align="center">Hi 👋, I'm Raksha</h1>
-<h3 align="center">A passionate Tech Enthusiast from India</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Raksha;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Building+Innovative+Projects+🚀"/>
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakshaagowda&label=Profile%20views&color=0e75b6&style=flat" alt="rakshaagowda" />
-</p>
-
-* 📫 How to reach me: **[rakshagowda264@gmail.com](mailto:rakshagowda264@gmail.com)**
-
----
-
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/raksha-b-r-447490292" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/rakshaagowda01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/justrakshagowda" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠 Languages and Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
-
----
-
-<h3 align="left">🚀 Projects</h3>
-
-| Project                                                                                           | Description                                                                                                |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 🌱 <a href="https://github.com/rakshaagowda/SmartFarming" target="_blank"><b>SmartFarming</b></a> | IoT & data-driven smart agriculture system for crop monitoring, irrigation, and yield optimization.        |
-| 🥗 <a href="https://github.com/rakshaagowda/SafeBite" target="_blank"><b>SafeBite</b></a>         | Food safety and nutrition analysis platform that helps users make informed dietary choices.                |
-| 🎓 <a href="https://github.com/rakshaagowda/SkillFinder" target="_blank"><b>SkillFinder</b></a>   | Full-stack platform to discover and enroll in online/offline learning platforms using Prisma & SQLite.     |
-| 🔐 <a href="https://github.com/rakshaagowda/CipherNet" target="_blank"><b>CipherNet</b></a>       | Secure real-time chat application using hybrid cryptography (RSA + AES) with BTS encryption visualization. |
-| 🌱<a href="https://github.com/rakshaagowda/KrishiMithra" target="_blank"><b>KrishiMithra</b></a>  | Document interpretar for farmers to fill in literacy and agriculture gap seamlessly.                        |
-
----
-<h3 align="left">📈 Yearly Contribution Graph</h3>
-
+<h3 align="center">🚀 Computer Science Engineer | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <!-- Mathematical bar-style graph (not streak-based) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakshaagowda&theme=github" alt="Raksha's yearly activity graph" />
+<img src="https://komarev.com/ghpvc/?username=rakshaagowda&label=Profile%20views&color=00f7ff&style=flat"/>
 </p>
+
+---
+
+# 👩‍💻 About Me
+
+* 🎓 Computer Science student passionate about **software development**
+* 💡 Interested in **AI/ML, Full Stack Development**
+* 🚀 Building impactful **real world projects**
+* 🧠 Practicing **DSA on LeetCode**
+* 📫 Reach me at **[rakshagowda264@gmail.com](mailto:rakshagowda264@gmail.com)**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/raksha-b-r-447490292">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/rakshaagowda01/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/justrakshagowda">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,nodejs,tailwind,linux,git"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                                                                                         | Description                                                                                      |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a>               | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
+| 🥗 <a href="https://github.com/rakshaagowda/SafeBiteAI"><b>SafeBiteAI</b></a>                   | AI based food safety & nutrition analysis platform helping users make healthy dietary choices    |
+| 🎓 <a href="https://github.com/rakshaagowda/SkillFinder"><b>SkillFinder</b></a>                 | Full stack learning discovery platform using Prisma & SQLite                                     |
+| 🔐 <a href="https://github.com/rakshaagowda/CipherNet"><b>CipherNet</b></a>                     | Secure chat application implementing **RSA + AES hybrid encryption**                             |
+| 🌾 <a href="https://github.com/rakshaagowda/KrishiMithra"><b>KrishiMithra</b></a>               | Document interpreter helping farmers bridge literacy gaps                                        |
+| 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI                                           |
+| 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a>                | Formula-1 inspired portfolio with racing style UI                                                |
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rakshaagowda&theme=matrix&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakshaagowda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaagowda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rakshaagowda01?theme=dark&font=Orbitron&ext=heatmap"/>
+</p>
+
+---
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshaagowda&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+
+---
+
+⭐ *Always learning, always building.*
