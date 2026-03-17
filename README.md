@@ -68,14 +68,13 @@
 
 | Project | Description |
 |--------|------------|
-| 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
 | 🥗 <a href="https://github.com/rakshaagowda/SafeBiteAI"><b>SafeBiteAI</b></a> | AI based food safety & nutrition analysis platform helping users make healthy dietary choices |
 | 🎓 <a href="https://github.com/rakshaagowda/SkillFinder"><b>SkillFinder</b></a> | Full stack learning discovery platform using Prisma & SQLite |
 | 🔐 <a href="https://github.com/rakshaagowda/CipherNet"><b>CipherNet</b></a> | Secure chat application implementing **RSA + AES hybrid encryption** |
 | 🌾 <a href="https://github.com/rakshaagowda/KrishiMithra"><b>KrishiMithra</b></a> | Document interpreter helping farmers bridge literacy gaps |
 | 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI |
 | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
-
+| 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
 ---
 
 # 🧠 LeetCode Stats
@@ -98,14 +97,6 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🏁 Fun Zone
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rakshaagowda&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
