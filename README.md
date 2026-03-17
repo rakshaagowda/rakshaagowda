@@ -74,10 +74,73 @@
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-| Project | Description | | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization | | 🥗 <a href="https://github.com/rakshaagowda/SafeBiteAI"><b>SafeBiteAI</b></a> | AI based food safety & nutrition analysis platform helping users make healthy dietary choices | | 🎓 <a href="https://github.com/rakshaagowda/SkillFinder"><b>SkillFinder</b></a> | Full stack learning discovery platform using Prisma & SQLite | | 🔐 <a href="https://github.com/rakshaagowda/CipherNet"><b>CipherNet</b></a> | Secure chat application implementing **RSA + AES hybrid encryption** | | 🌾 <a href="https://github.com/rakshaagowda/KrishiMithra"><b>KrishiMithra</b></a> | Document interpreter helping farmers bridge literacy gaps | | 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI | | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
+---
+
+### 🌱 SmartFarming  
+<a href="https://github.com/rakshaagowda/SmartFarming">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=SmartFarming&theme=tokyonight"/>
+</a>
+
+> IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization  
+
+---
+
+### 🥗 SafeBiteAI  
+<a href="https://github.com/rakshaagowda/SafeBiteAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=SafeBiteAI&theme=tokyonight"/>
+</a>
+
+> AI based food safety & nutrition analysis platform helping users make healthy dietary choices  
+
+---
+
+### 🎓 SkillFinder  
+<a href="https://github.com/rakshaagowda/SkillFinder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=SkillFinder&theme=tokyonight"/>
+</a>
+
+> Full stack learning discovery platform using Prisma & SQLite  
+
+---
+
+### 🔐 CipherNet  
+<a href="https://github.com/rakshaagowda/CipherNet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=CipherNet&theme=tokyonight"/>
+</a>
+
+> Secure chat application implementing **RSA + AES hybrid encryption**  
+
+---
+
+### 🌾 KrishiMithra  
+<a href="https://github.com/rakshaagowda/KrishiMithra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=KrishiMithra&theme=tokyonight"/>
+</a>
+
+> Document interpreter helping farmers bridge literacy gaps  
+
+---
+
+### 🎬 Netflix Style Portfolio  
+<a href="https://github.com/rakshaagowda/rakshaportfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=rakshaportfolio&theme=tokyonight"/>
+</a>
+
+> Interactive developer portfolio inspired by Netflix UI  
+
+---
+
+### 🏎 F1 Portfolio  
+<a href="https://github.com/rakshaagowda/f1portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakshaagowda&repo=f1portfolio&theme=tokyonight"/>
+</a>
+
+> Formula-1 inspired portfolio with racing style UI  
+
+---
+
 ---
 
 # 🧠 LeetCode Stats
