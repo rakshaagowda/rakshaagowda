@@ -24,11 +24,11 @@
 
 <p align="center">
 
-<a href="https://rakshaportfolio-rosy.vercel.app">
+<a href="https://f1portfolio-beta.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-<a href="https://github.com/rakshaagowda/rakshaportfolio">
+<a href="https://github.com/rakshaagowda/f1portfolio.git">
 <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -42,7 +42,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 </p>
 
----
+
 
 
 ---
@@ -77,16 +77,7 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|--------|------------|
-| 🌱 **SmartFarming** | IoT-based agriculture system for monitoring & automation |
-| 🥗 **SafeBiteAI** | AI-powered food safety & nutrition analysis |
-| 🎓 **SkillFinder** | Learning platform using Prisma & SQLite |
-| 🔐 **CipherNet** | Secure chat app with RSA + AES encryption |
-| 🌾 **KrishiMithra** | Document interpreter for farmers |
-| 🎬 **Netflix Portfolio** | Interactive Netflix-style portfolio |
-| 🏎 **F1 Portfolio** | Formula 1 themed developer portfolio |
-
+| Project | Description | | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization | | 🥗 <a href="https://github.com/rakshaagowda/SafeBiteAI"><b>SafeBiteAI</b></a> | AI based food safety & nutrition analysis platform helping users make healthy dietary choices | | 🎓 <a href="https://github.com/rakshaagowda/SkillFinder"><b>SkillFinder</b></a> | Full stack learning discovery platform using Prisma & SQLite | | 🔐 <a href="https://github.com/rakshaagowda/CipherNet"><b>CipherNet</b></a> | Secure chat application implementing **RSA + AES hybrid encryption** | | 🌾 <a href="https://github.com/rakshaagowda/KrishiMithra"><b>KrishiMithra</b></a> | Document interpreter helping farmers bridge literacy gaps | | 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI | | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
 ---
 
 # 🧠 LeetCode Stats
