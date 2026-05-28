@@ -75,6 +75,7 @@
 | 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI |
 | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
 | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
+|  <a href="https://github.com/rakshaagowda/AuraFinance"><b>AuraFinance</b></a> | AI-driven insights, expense tracking, and predictive analytics to help users monitor spending, analyze financial behavior, and make smarter financial decisions.  |
 ---
 
 # 🧠 LeetCode Stats
