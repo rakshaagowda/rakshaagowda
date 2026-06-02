@@ -71,7 +71,7 @@
 | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
 | 💰 <a href="https://github.com/rakshaagowda/AuraFinance"><b>AuraFinance</b></a> | AI-driven insights, expense tracking, and predictive analytics to help users monitor spending, analyze financial behavior, and make smarter financial decisions |
 | 📍 <a href="https://github.com/rakshaagowda/PresenceIQ"><b>PresenceIQ</b></a> | Intelligent Attendance Monitoring. An IoT-enabled real-time attendance tracking system that automates attendance recording, analytics, and reporting for organizations and institutions |
-| 🌍 <a href="https://github.com/rakshaagowda/TerraClaim-FRA-DSS"><b>TerraClaim DSS</b></a> | GIS-powered Forest Rights Act Decision Support System that digitizes FRA claims, enables geospatial analysis, and provides multi-level administrative monitoring through interactive WebGIS dashboards |
+| 🌍 <a href="https://github.com/rakshaagowda/TerraClaim"><b>TerraClaim DSS</b></a> | GIS-powered Forest Rights Act Decision Support System that digitizes FRA claims, enables geospatial analysis, and provides multi-level administrative monitoring through interactive WebGIS dashboards |
 ---
 
 # 🧠 LeetCode Stats
