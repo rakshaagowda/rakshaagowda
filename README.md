@@ -27,11 +27,6 @@
 <a href="https://f1portfolio-beta.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-
-<a href="https://github.com/rakshaagowda/f1portfolio.git">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -65,7 +60,6 @@
 
 ---
 # 🚀 Featured Projects
-
 | Project | Description |
 |--------|------------|
 | 🥗 <a href="https://github.com/rakshaagowda/SafeBiteAI"><b>SafeBiteAI</b></a> | AI based food safety & nutrition analysis platform helping users make healthy dietary choices |
@@ -75,7 +69,9 @@
 | 🎬 <a href="https://github.com/rakshaagowda/rakshaportfolio"><b>Netflix Style Portfolio</b></a> | Interactive developer portfolio inspired by Netflix UI |
 | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
 | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
-|  <a href="https://github.com/rakshaagowda/AuraFinance"><b>AuraFinance</b></a> | AI-driven insights, expense tracking, and predictive analytics to help users monitor spending, analyze financial behavior, and make smarter financial decisions.  |
+| 💰 <a href="https://github.com/rakshaagowda/AuraFinance"><b>AuraFinance</b></a> | AI-driven insights, expense tracking, and predictive analytics to help users monitor spending, analyze financial behavior, and make smarter financial decisions |
+| 📍 <a href="https://github.com/rakshaagowda/PresenceIQ"><b>PresenceIQ</b></a> | Intelligent Attendance Monitoring. An IoT-enabled real-time attendance tracking system that automates attendance recording, analytics, and reporting for organizations and institutions |
+| 🌍 <a href="https://github.com/rakshaagowda/TerraClaim-FRA-DSS"><b>TerraClaim FRA-DSS</b></a> | GIS-powered Forest Rights Act Decision Support System that digitizes FRA claims, enables geospatial analysis, and provides multi-level administrative monitoring through interactive WebGIS dashboards |
 ---
 
 # 🧠 LeetCode Stats
@@ -84,13 +80,6 @@
 <img src="https://leetcard.jacoblin.cool/rakshaagowda01?theme=dark&font=Orbitron&ext=heatmap"/>
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshaagowda&theme=tokyo-night"/>
-</p>
 
 ---
 
