@@ -70,6 +70,7 @@
 | 🏎 <a href="https://github.com/rakshaagowda/f1portfolio"><b>F1 Portfolio</b></a> | Formula-1 inspired portfolio with racing style UI |
 | 🌱 <a href="https://github.com/rakshaagowda/SmartFarming"><b>SmartFarming</b></a> | IoT powered agriculture system for crop monitoring, irrigation automation and yield optimization |
 | 💰 <a href="https://github.com/rakshaagowda/AuraFinance"><b>AuraFinance</b></a> | AI-driven insights, expense tracking, and predictive analytics to help users monitor spending, analyze financial behavior, and make smarter financial decisions |
+| 🧠 <a href="https://github.com/rakshaagowda/VaultIQ"><b>VaultIQ</b></a> | GenAI-powered RAG Document Intelligence System enabling secure PDF ingestion, private multi-tenant document search, AI-driven summarization, multi-document querying, page-level citations, and side-by-side document comparison using FastAPI, LangChain, ChromaDB, and Gemini/OpenAI APIs |
 | 📍 <a href="https://github.com/rakshaagowda/PresenceIQ"><b>PresenceIQ</b></a> | Intelligent Attendance Monitoring. An IoT-enabled real-time attendance tracking system that automates attendance recording, analytics, and reporting for organizations and institutions |
 | 🌍 <a href="https://github.com/rakshaagowda/TerraClaim"><b>TerraClaim DSS</b></a> | GIS-powered Forest Rights Act Decision Support System that digitizes FRA claims, enables geospatial analysis, and provides multi-level administrative monitoring through interactive WebGIS dashboards |
 ---
